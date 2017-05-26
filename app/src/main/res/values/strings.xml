@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">roles</string>
+    <string name="worker">Работник</string>
+    <string name="employer">Работодатель</string>
+    <string name="text_for_worker">text for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for workertext for worker</string>
+    <string name="text_for_employer">text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer text for employer</string>
+</resources>
